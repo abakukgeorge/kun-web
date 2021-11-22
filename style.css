@@ -1,0 +1,31 @@
+*{
+	margin: 0;
+	padding: 0;
+	background-color: rgb(185, 151, 218);
+}
+.section-title {
+	color: rgb(194, 224, 24);
+	margin-top: 30px;
+	padding: 15px 0px 0px 0px;
+	margin-bottom: 30px;
+	border-bottom: 1px solid rgb(214, 89, 89);
+	font-family: 'Times New Roman';
+	font-weight: bold;
+	font-size: 40px;
+	background-color: aquamarine;
+}
+h3{
+	font-size: 18px;
+	color: rgb(27, 8, 95);
+	font-family: sans-serif;
+}
+p{
+	color: rgb(8, 5, 5);
+	font-size: 19px;
+	font-family: sans-serif;
+}
+li{
+	color: tomato;
+	font-size: 20px;
+	font-style: italic;
+}
